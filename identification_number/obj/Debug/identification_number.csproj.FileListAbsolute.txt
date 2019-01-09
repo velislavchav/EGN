@@ -1,0 +1,13 @@
+C:\Users\Chavdarov\Desktop\identification_number\identification_number\bin\Debug\identification_number.exe.config
+C:\Users\Chavdarov\Desktop\identification_number\identification_number\bin\Debug\identification_number.exe
+C:\Users\Chavdarov\Desktop\identification_number\identification_number\bin\Debug\identification_number.pdb
+C:\Users\Chavdarov\Desktop\identification_number\identification_number\obj\Debug\identification_number.exe
+C:\Users\Chavdarov\Desktop\identification_number\identification_number\obj\Debug\identification_number.pdb
+C:\Users\Chavdarov\Desktop\identification_number\identification_number\obj\Debug\identification_number.csprojResolveAssemblyReference.cache
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\identification_number\identification_number\bin\Debug\identification_number.exe.config
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\identification_number\identification_number\bin\Debug\identification_number.exe
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\identification_number\identification_number\bin\Debug\identification_number.pdb
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\identification_number\identification_number\obj\Debug\identification_number.csprojAssemblyReference.cache
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\identification_number\identification_number\obj\Debug\identification_number.csproj.CoreCompileInputs.cache
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\identification_number\identification_number\obj\Debug\identification_number.exe
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\identification_number\identification_number\obj\Debug\identification_number.pdb
